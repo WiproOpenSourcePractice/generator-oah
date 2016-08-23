@@ -1,0 +1,22 @@
+{
+  "name": "generator-oah",
+  "version": "0.0.1",
+  "description": "Yeoman generator for oah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openapphack/generator-oah.git"
+  },
+  "keywords": [
+    "\"yeoman-generator\""
+  ],
+  "author": "Vinod Panicker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openapphack/generator-oah/issues"
+  },
+  "homepage": "https://github.com/openapphack/generator-oah#readme"
+}

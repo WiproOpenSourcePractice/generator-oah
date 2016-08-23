@@ -1,20 +1,20 @@
-# [generator-openapphack](https://github.com/WiproOpenSourcePractice/generator-openapphack)
+# [generator-oah](https://github.com/openapphack/generator-oah)
 
-A [Yeoman](http://yeoman.io) generator for [openapphack](https://github.com/WiproOpenSourcePractice/openapphack)
-vms and clusters.
+A [Yeoman](http://yeoman.io) generator for [openapphack](https://github.com/openapphack/openapphack)
+ environments ( vms and clusters).
 
 ## Usage
 
 
 ```sh
-$ npm i generator-openapphack
-$ yo openapphack             # generate a openapphack bare vm
-$ yo openapphack:vm          # generate a openapphack vm
-$ yo openapphack:cluster     # generate a openapphack cluster
-$ yo openapphack:pi-vm       # generate a openapphack pi-vm
-$ yo openapphack:pi-cluster  # generate a openapphack pi-cluster
-$ yo openapphack:role        # generate a openapphack ansible role
-$ yo openapphack:generator   # generate a openapphack yeoman generator
+$ npm i generator-oah
+$ yo oah             # generate a oah bare vm
+$ yo oah:vm          # generate a oah vm
+$ yo oah:cluster     # generate a oah cluster
+$ yo oah:pi-vm       # generate a oah pi-vm
+$ yo oah:pi-cluster  # generate a oah pi-cluster
+$ yo oah:role        # generate a oah ansible role
+$ yo oah:generator   # generate a oah yeoman generator
 ```
 
 ## Developer Usage
